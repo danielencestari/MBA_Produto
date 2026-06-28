@@ -3,7 +3,7 @@
 
 ---
 
-## Versão curta — WhatsApp / conversa informal
+## Versão curta 
 
 > **GuIA — Seu copiloto tributário pessoal com IA**
 >
@@ -19,7 +19,7 @@
 
 ---
 
-## Versão completa — apresentação / banca
+## Versão completa
 
 ### O problema
 
