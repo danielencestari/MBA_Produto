@@ -5,15 +5,15 @@
 
 ## Versão curta 
 
-> **GuIA — Seu copiloto tributário pessoal com IA**
+> **GuIA Financeiro — Seu copiloto financeiro e tributário pessoal com IA**
 >
-> Todo ano, 41 milhões de brasileiros encaram o IR com medo: medo de malha fina, medo de perder deduções, medo de pagar mais do que deveriam. E o problema não é só em abril — ele começa em janeiro, quando você joga fora um recibo de farmácia sem saber que valia R$ 300 de dedução.
+> O GuIA Financeiro veio pra te ajudar a ter o controle financeiro na palma da sua mão! Conecta suas contas bancárias via Open Finance, monitora seus gastos o ano todo, te ajudando a economizar e a traçar as suas metas e mantê-las, além de salvar seus documentos num cofre, e identificar automaticamente o que pode ser deduzido no IR pra te ajudar a economizar não só agora, mas também no futuro.
 >
-> O GuIA resolve isso. Conecta suas contas bancárias via Open Finance (Mercado Pago, Nubank, Itaú e 800+ bancos), monitora seus gastos o ano todo, e identifica automaticamente o que pode ser deduzido no IR — sem você guardar um comprovante sequer.
+> Todo ano, 41 milhões de brasileiros encaram o IR com medo: medo de malha fina, medo de perder deduções, medo de pagar mais do que deveriam. E o problema não é só em abril — ele começa em janeiro, quando você joga fora um nota fiscal de uma consulta sem saber que valia R$ 300 de dedução.
 >
 > Na hora de declarar, a IA já montou sua declaração. Você só confirma.
 >
-> **O diferencial:** não é um app de abril. É um assistente financeiro que trabalha 12 meses para que em abril você só precise apertar um botão.
+> **O diferencial:** não é um app de abril. É um assistente financeiro que trabalha 12 meses para que você tenha controle total da sua vida financeira, e em abril você só precise apertar um botão e tenha seu IR pronto, com a melhor dedução possível.
 >
 > Foco no MVP: IRPF de pessoa física. Open Finance regulado pelo BCB. IA com custo viável — a maior parte roda em regras determinísticas (sem tokens caros); o LLM entra só onde o rule-based não resolve.
 
